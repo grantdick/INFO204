@@ -1,0 +1,78 @@
+Rank;MfE (2009) rank;NRWQN Site code;River name and site;Visibility (m);Suitability based on visibility;E. coli (cfu/100mL);Suitability based on E. coli;Water quality index;Limiting variable
+1;1;NN2;Motueka @ Gorge;11.49;98.0;1;100.0;98.0;Visibility
+2;3;RO6;Waikato @ Reids Farm;7.51;93.3;1;100.0;93.3;Visibility
+3;2;HV4;Ngaruroro @ Kuripapango;6.65;91.7;2;100.0;91.7;Visibility
+4;5;DN10;Monowai below Gates;6.53;91.5;1;100.0;91.5;Visibility
+5;16;AX1;Clutha @ Luggate Br.;5.70;89.2;2;100.0;89.2;Visibility
+6;7;RO1;Tarawera @ Lake outlet;5.35;87.9;1;100.0;87.9;Visibility
+7;13;WN2;Hutt @ Kaitoke;4.93;86.2;4;96.9;86.2;Visibility
+8;29;WN5;Ruramahanga @ SH2;4.35;83.2;13;83.3;83.2;Visibility
+9;6;TK5;Hakatakamea above MH Br.;4.10;81.6;13;83.3;81.6;Visibility
+10;8;NN1;Motueka @ Woodstock;4.37;83.3;16;80.3;80.3;E. coli
+11;11;GY3;Grey @ Waipuna;3.62;78.0;11;85.9;78.0;Visibility
+12;10;TK4;Waitaki @ Kurow;3.44;76.4;1;100.0;76.4;Visibility
+13;17;TU2;Tongariro @ Turangi;3.14;73.5;16;80.3;73.5;Visibility
+14; ;NN3;Wairau @ Dip Flat;2.84;70.0;2;100.0;70.0;Visibility
+15;15;HV6;Mohaka @ Glenfalls;2.83;69.8;26;71.4;69.8;Visibility
+16;23;AX4;Clutha @ Millers Flat;2.73;68.6;11;86.2;68.6;Visibility
+17;26;GY4;Haast @ Roaring Billy;2.42;64.2;3;98.7;64.2;Visibility
+18;18;TK3;Opuha @ Skipton Br.;2.41;64.1;33;66.9;64.1;Visibility
+19;47;HM6;Ohinemuri @ Karangahake;2.59;66.8;43;62.0;62.0;E. coli
+20;21;CH1;Hurunui @ Mandamus;2.18;60.3;9;89.4;60.3;Visibility
+21;28;NN4;Wairau @ Tuamarina;2.12;59.3;6;93.1;59.3;Visibility
+22;36;GY2;Grey @ Dobson;2.12;59.2;37;64.8;59.2;Visibility
+23;32;TK6;Waitaki @ SH1 Br.;2.09;58.8;32;67.8;58.8;Visibility
+24;22;DN7;Oreti @ Lumsden;4.25;82.6;50;58.6;58.6;E. coli
+25;33;AX2;Kawarau @ Chards;2.06;58.2;3;98.7;58.2;Visibility
+26;14;TK1;Opihi @ Waipopo;4.04;81.2;52;57.9;57.9;E. coli
+27;34;RO3;Rangitaiki @ Murapara;2.01;57.2;20;76.2;57.2;Visibility
+28;43;CH2;Hurunui @ SH1 Br.;1.88;54.8;65;53.5;53.5;E. coli
+29;63;DN6;Mataura @ Parawa;2.29;62.2;66;53.0;53.0;E. coli
+30;25;RO4;Whirinaki @ Galatea;1.76;52.4;42;62.3;52.4;Visibility
+31;30;HV2;Tukituki @ Red Br.;1.68;50.7;34;66.5;50.7;Visibility
+32;59;GY1;Buller @ Te Kuha;1.68;50.6;20;76.2;50.6;Visibility
+33;49;WN4;Ruamahanga @ Wardells;1.87;54.6;75;50.3;50.3;E. coli
+34;39;WH1;Waipapa @ Forest Ranger;2.26;61.6;82;48.7;48.7;E. coli
+35;9;NN5;Buller @ Longford;1.57;48.3;23;73.8;48.3;Visibility
+36;58;DN9;Waiau @ Tuatapere;1.87;54.6;88;47.2;47.2;E. coli
+37;4;HV1;Makaroro @ Burnt Br.;1.50;46.6;12;84.4;46.6;Visibility
+38;20;TK2;Opihi @ Rockwood;2.18;60.3;91;46.5;46.5;E. coli
+39;45;DN4;Clutha @ Balclutha;1.46;45.5;42;62.4;45.5;Visibility
+40;65;WN3;Ruamahanga @ Waihenga;1.45;45.3;96;45.4;45.3;Visibility
+41;40;WA5;Rangitikei @ Mangaweka;1.41;44.4;82;48.7;44.4;Visibility
+42;24;HV5;Mohaka @ Raupunga;1.36;43.2;20;76.7;43.2;E. coli
+43;12;WA2;Manganui @ SH3;3.83;79.7;108;43.0;43.0;Visibility
+44;51;DN8;Oreti @ Riverton HW Br.;1.35;42.9;61;54.8;42.9;Visibility
+45;37;TU1;Whanganui @ Te Maire;1.31;41.8;91;46.6;41.8;Visibility
+46;19;HV3;Ngaruroro @ Chesterhope;1.30;41.7;29;69.8;41.7;E. coli
+47;48;WN1;Hutt @ Boulcott;2.75;68.8;121;40.7;40.7;E. coli
+48;35;DN2;Sutton @ SH87;2.31;62.6;129;39.5;39.5;E. coli
+49;27;RO5;Rangitaiki @ Te Teko;1.20;39.0;31;68.3;39.0;Visibility
+50;41;HM3;Waikato @ Hamilton Traffic Br.;1.19;38.6;56;56.6;38.6;Visibility
+51;52;DN3;Taieri @ Outram;1.14;37.4;44;61.2;37.4;Visibility
+52;71;WA7;Manawatu @ Weber Rd;1.10;36.2;155;35.9;35.9;E. coli
+53;31;GS3;Motu @ Waitangirua;1.69;50.9;158;35.5;35.5;E. coli
+54;68;WA3;Waingongoro @ SH45;1.36;43.3;161;35.2;35.2;E. coli
+55;53;WH2;Waitangi @ Wakelins;1.46;45.5;167;34.4;34.4;E. coli
+56;67;WA9;Manawatu @ Opiki Br.;0.99;33.0;91;46.5;33.0;Visibility
+57;72;WA8;Manawatu @ Teachers Coll.;0.97;32.4;141;37.7;32.4;Visibility
+58;75;WA4;Whanganui @ Paetawa;0.96;32.2;105;43.7;32.2;Visibility
+59;44;DN1;Taieri @ Tiroiti;0.96;32.0;99;44.9;32.0;Visibility
+60;73;WA6;Rangitikei @ Kakariki;0.86;29.0;124;40.3;29.0;Visibility
+61;42;GS2;Waikohu @ No. 1 Br.;1.70;51.0;225;28.9;28.9;E. coli
+62;61;GS4;Motu @ Houpoto;0.85;28.7;21;75.8;28.7;Visibility
+63;62;RO2;Tarawera @ Awakaponga;0.81;27.2;86;47.6;27.2;Visibility
+64;56;HM4;Waikato @ Rangiriri;0.79;26.8;123;40.4;26.8;Visibility
+65;46;HM1;Waipa @ Otewa;1.49;46.4;276;25.3;25.3;E. coli
+66;70;HM5;Waihou @ Te Aroha;0.69;23.2;238;27.8;23.2;Visibility
+67;66;AK2;Rangitopuni @ Walkers;0.68;22.9;236;28.0;22.9;Visibility
+68;57;AK1;Hoteo @ Gubbs;0.66;22.3;126;40.0;22.3;Visibility
+69;54;WH4;Wairu @ Purua;0.65;22.1;99;44.9;22.1;Visibility
+70;64;WH3;Mangakahia @ Titoki Br.;0.65;22.0;249;27.1;22.0;Visibility
+71;50;AX3;Shotover @ Bowens Peak;0.63;21.1;2;100.0;21.1;Visibility
+72;38;CH3;Waimakariri @ Gorge;0.60;20.2;67;52.8;20.2;Visibility
+73;76;WA1;Waitara @ Bertrand Rd;0.59;19.7;344;21.6;19.7;Visibility
+74;74;HM2;Waipa @ Whatawhata;0.50;16.5;273;25.5;16.5;Visibility
+75;60;DN5;Mataura @ Seaward Down;0.90;30.1;488;16.2;16.2;E. coli
+76;69;CH4;Waimakariri above old HW Br.;0.29;8.4;36;65.2;8.4;Visibility
+77;55;GS1;Waipoa @ Kanakanaia;0.11;0.7;126;40.0;0.7;Visibility
